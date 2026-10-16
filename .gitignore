@@ -22,3 +22,10 @@ Thumbs.db
 *.suo
 # Результаты тестирования
 TestResults/
+# Исключения для C# WPF
+bin/
+obj/
+.vs/
+*.user
+*.bak
+TestResults/
